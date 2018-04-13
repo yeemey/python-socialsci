@@ -14,7 +14,8 @@ keypoints:
 - "Python is an interpreted language"
 - "The REPL (Read-Eval-Print loop) allows rapid development and testing of code segments"
 - "Jupyter notebooks builds on the REPL concepts and allow code results and documentation to be maintained together and shared"
-- "Jupyter notebooks is a complete IDE (Integrated Development Environment) "
+- "Jupyter notebooks are a complete IDE (Interactive Development Environment) "
+
 ---
 
 ## Introducing the Python programming language
@@ -26,7 +27,7 @@ Python’s main advantages:
 * Open Source software, supported by [Python Software Foundation](https://www.python.org/psf/)
 * Available on all major platforms (Windows, macOS, Linux)
 * It is a good language for new programmers to learn due to its straightforward, object-oriented style
-* It is well-structured, which aids readability
+* It is well structured which aids readability
 * It is extensible (i.e. modifiable) and is supported by a large community who provide a comprehensive range of 3rd party packages 
 
 ## Interpreted vs. compiled languages
