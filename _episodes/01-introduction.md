@@ -12,7 +12,8 @@ keypoints:
 - "Python is an interpreted language"
 - "The REPL (Read-Eval-Print loop) allows rapid development and testing of code segments"
 - "Jupyter notebooks builds on the REPL concepts and allow code results and documentation to be maintained together and shared"
-- "Jupyter notebooks is a complete IDE (Integrated Development Environment) "
+- "Jupyter notebooks are a complete IDE (Interactive Development Environment) "
+
 ---
 
 ## Introducing the Python programming language
