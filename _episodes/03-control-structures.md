@@ -1,7 +1,7 @@
 ---
 title: "Python control structures"
-teaching: 0
-exercises: 0
+teaching: 20
+exercises: 25
 questions:
 - "What constructs are available for changing the flow of a program?"
 - "How can I repeat an action many times?"
@@ -253,8 +253,8 @@ changes it to green).  If we define `sum = 0` now we can't use the function `sum
 > > 2. The Boolean value is set to False the loop will never be executed.
 > > 3. When i does equal 10 the expression is False and the loop does not execute so we have only summed 1 to 9
 > > 4. Because you cannot guarantee the internal representation of Float, you should never try to compare them for equality. In this particular case the i never 'equals' n and so the loop never ends. - If you did try running this, you can stop it using `Ctrl+c` in a terminal or going to the kernel menu of a notebook and choosing interrupt.
-> > {: .solution}
-> {: .challenge}
+> {: .solution}
+{: .challenge}
 
 
 
